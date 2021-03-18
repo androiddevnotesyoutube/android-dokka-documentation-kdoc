@@ -12,7 +12,7 @@ Dokka: https://github.com/Kotlin/dokka
 <br>
 
 <p align="center">
-Written Usage Instructions: https://medium.com/androiddevnotes/customize-your-android-timber-logger-setup-to-add-a-global-tag-and-a-method-name-to-the-logs-for-e7f23acd844f
+Written Usage Instructions: https://medium.com/androiddevnotes/how-to-use-dokka-documentation-engine-for-android-gradle-to-generate-kdoc-or-javadoc-comments-2b5f177595ec
 </p>
 
 <br>
@@ -25,26 +25,8 @@ Written Usage Instructions: https://medium.com/androiddevnotes/customize-your-an
 
 <br>
 <p align="center">
-<img src="assets/timber_androiddevnotes.png" alt="Timber awesomedevnotes - androiddevnotes youtube thumbnail"></img>
+<img src="assets/dokka_androiddevnotes.png" alt="Dokka awesomedevnotes - androiddevnotes youtube thumbnail"></img>
 </p>
-
-<br>
-
-## Output
-
-### Global Tag Timber Prefix
-
-<br>
-
-![Global Tag Timber](https://miro.medium.com/max/963/1*5ysTevtqDyjdNpLO_kqEyA.png)
-
-<br>
-
-### Global Tag Timber Prefix
-
-<br>
-
-![Method Name Timber](https://miro.medium.com/max/963/1*odd4cVgc5O-5gigcl5fbfw.png)
 
 <br>
 
