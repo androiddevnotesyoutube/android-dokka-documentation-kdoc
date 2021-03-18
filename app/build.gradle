@@ -51,8 +51,6 @@ tasks.withType(dokkaHtml.getClass()).configureEach {
     )
 }
 
-
-
 dokkaHtml.configure {
     dokkaSourceSets {
         named("main") {
