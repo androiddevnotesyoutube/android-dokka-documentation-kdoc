@@ -30,6 +30,18 @@ Written Usage Instructions: https://medium.com/androiddevnotes/how-to-use-dokka-
 
 <br>
 
+## Output
+
+<br>
+
+Documentation generated: https://androiddevnotesyoutube.github.io/android-dokka-documentation-kdoc/documentation/html/navigation.html
+
+<br>
+
+![Dokka Documentation Online](https://miro.medium.com/max/963/1*QH9eMDo8tzPVHBG_YtJSYw.png)
+
+<br>
+
 ## :computer: Find us on
 
 <div align="center">
