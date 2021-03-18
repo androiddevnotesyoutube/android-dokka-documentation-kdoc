@@ -1,0 +1,1 @@
+var typeSearchIndex = [{"p":"com.androiddevnotes.androiddokkadocumentationkdocsample","l":"MainActivity","url":"com/androiddevnotes/androiddokkadocumentationkdocsample/MainActivity.html"}, {"l":"All classes","url":"allclasses.html"}]

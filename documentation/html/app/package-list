@@ -1,0 +1,8 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.androiddevnotes.androiddokkadocumentationkdocsample////PointingToDeclaration/app/com.androiddevnotes.androiddokkadocumentationkdocsample/index.html
+$dokka.location:com.androiddevnotes.androiddokkadocumentationkdocsample/MainActivity///PointingToDeclaration/app/com.androiddevnotes.androiddokkadocumentationkdocsample/-main-activity/index.html
+$dokka.location:com.androiddevnotes.androiddokkadocumentationkdocsample/MainActivity/MainActivity/#/PointingToDeclaration/app/com.androiddevnotes.androiddokkadocumentationkdocsample/-main-activity/-main-activity.html
+$dokka.location:com.androiddevnotes.androiddokkadocumentationkdocsample/MainActivity/normalFunction/#kotlin.String/PointingToDeclaration/app/com.androiddevnotes.androiddokkadocumentationkdocsample/-main-activity/normal-function.html
+com.androiddevnotes.androiddokkadocumentationkdocsample
+

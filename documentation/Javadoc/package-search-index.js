@@ -1,0 +1,1 @@
+var packageSearchIndex = [{"l":"com.androiddevnotes.androiddokkadocumentationkdocsample","url":"com/androiddevnotes/androiddokkadocumentationkdocsample/package-summary.html"}, {"l":"All packages","url":"index.html"}]
